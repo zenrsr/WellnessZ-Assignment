@@ -80,7 +80,7 @@ To deploy the solution into production:
 
 ## Postman Collection
 
-A Postman collection with examples for each API endpoint is available [here](https://www.postman.com/solar-flare-193342/workspace/wellnessz).
+A Postman collection with examples for each API endpoint is available [here](https://www.postman.com/solar-flare-193342/workspace/wellnessz/collection/33660472-d5769932-c407-4333-b72f-4feb39a99d60?action=share&creator=33660472).
 
 ## Contributors
 

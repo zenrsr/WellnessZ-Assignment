@@ -32,6 +32,7 @@ npm install
 
    - Obtain API credentials for the chosen cloud storage service.
    - Update the cloud storage configuration.
+5. Do not forget to add the values for the Environment Variables in the `.env` file
 
 ## Usage
 
